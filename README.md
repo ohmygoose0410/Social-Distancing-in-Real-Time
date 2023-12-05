@@ -9,7 +9,7 @@
     $ python correction.py --video video/AVG-TownCentre-raw.webm -H 300 -S 500
     ```
 
-    > **Warning**
+    > [!WARNING]
     > 在使用滑鼠圈出偵測區域位置時，必須依照右上、右下、左下和左上之順序做標註。
 
 2.  接續執行main.py即可。
@@ -19,3 +19,5 @@
     ```
 
 ## Demo影片
+    
+<img src="output/social distance.gif" width="500">
