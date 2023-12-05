@@ -20,4 +20,4 @@
 
 ## Demo影片
     
-<img src="output/social distance.gif" width="500">
+<img src="output/social distance.gif" width="600">
